@@ -4,7 +4,7 @@
 const imageSlider = document.querySelector("#imageSlider")
 const nextBtn = document.querySelector("#nextButton")
 const PrevBtn = document.querySelector("#PrevButton")
-
+g
 const images = [
     "https://img.freepik.com/free-photo/complex-aerial-view-city_23-2148975282.jpg?size=626&ext=jpg&ga=GA1.1.1789678835.1704812291&semt=sph",
     "https://img.freepik.com/free-photo/view-new-york-city-usa_53876-160509.jpg?size=626&ext=jpg&ga=GA1.2.1789678835.1704812291&semt=sph",
